@@ -1,0 +1,34 @@
+{
+  "name": "angularbknd-sdk",
+  "description": "Backand SDK for Angular",
+  "version": "1.7.2",
+  "main": [
+    "dist/",
+    "src/"
+  ],
+  "ignore": [
+    "Bower/*",
+    "example/*",
+    "Bower",
+    "src",
+    "example",
+    "package.json",
+    "Gruntfile.js"
+  ],
+  "homepage": "https://github.com/backand/angularbknd-sdk",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "latest",
+    "angular-cookies": "latest"
+  },
+  "_release": "1.7.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.7.2",
+    "commit": "ac2ee787be148010a7d5671e89382d97c9663222"
+  },
+  "_source": "git://github.com/backand/angularbknd-sdk.git",
+  "_target": "1.7.2",
+  "_originalSource": "angularbknd-sdk"
+}
